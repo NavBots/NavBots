@@ -6,4 +6,4 @@
 - Learning: Python.
 - Tools: Visual Studio Code, Sublime Text.
 
-<img align='left' src="https://spotify-github-profile.kittinanx.com/api/view?uid=31md2tkhabhw2uftepjhwwyy6ose&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
+<img align='left' src="https://spotify-github-profile.kittinanx.com/api/view?uid=31lxypemjuwaxnyjiqvtiq6olepy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile">
