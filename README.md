@@ -1,6 +1,6 @@
 ## Glitch'xD
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kauexz&show_icons=true&theme=material-palenight&count_private=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=glitch&show_icons=true&theme=material-palenight&count_private=true">
 
 - Skills: Javascript, Typescript, MongoDB, HTML & CSS.
 - Learning: Python.
